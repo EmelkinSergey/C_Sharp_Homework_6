@@ -1,0 +1,16 @@
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_6/Task_041/obj/Debug/net6.0/Task_041.GlobalUsings.g.cs
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_6/Task_041/obj/Debug/net6.0/Task_041.csproj.AssemblyReference.cache
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_6/Task_041/obj/Debug/net6.0/Task_041.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_6/Task_041/obj/Debug/net6.0/Task_041.AssemblyInfoInputs.cache
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_6/Task_041/obj/Debug/net6.0/Task_041.AssemblyInfo.cs
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_6/Task_041/obj/Debug/net6.0/Task_041.csproj.CoreCompileInputs.cache
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_6/Task_041/bin/Debug/net6.0/Task_041
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_6/Task_041/bin/Debug/net6.0/Task_041.deps.json
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_6/Task_041/bin/Debug/net6.0/Task_041.runtimeconfig.json
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_6/Task_041/bin/Debug/net6.0/Task_041.dll
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_6/Task_041/bin/Debug/net6.0/ref/Task_041.dll
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_6/Task_041/bin/Debug/net6.0/Task_041.pdb
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_6/Task_041/obj/Debug/net6.0/Task_041.dll
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_6/Task_041/obj/Debug/net6.0/ref/Task_041.dll
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_6/Task_041/obj/Debug/net6.0/Task_041.pdb
+/Users/sergeyemelkin/Desktop/STUDIES Geekbrains/03_Языки программирования/ДЗ_семинар_6/Task_041/obj/Debug/net6.0/Task_041.genruntimeconfig.cache
